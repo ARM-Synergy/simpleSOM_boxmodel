@@ -1,0 +1,6554 @@
+started at Wed Mar 10 13:24:03 MST 2021
+/tmp/4505768.1.jathar.q:/home/students/yicongh/Programs/anaconda3/bin:/home/students/yicongh/Programs/anaconda3/condabin:/home/students/alia/intel/compilers_and_libraries_2019.2.187/linux/bin/intel64:/home/students/alia/intel/compilers_and_libraries_2019.2.187/linux/mpi/intel64/libfabric/bin:/home/students/alia/intel/compilers_and_libraries_2019.2.187/linux/mpi/intel64/bin:/home/students/alia/intel/debugger_2019/gdb/intel64/bin:/home/students/yicongh/Programs/BOXMOX//bin:/home/students/yicongh/Programs/BOXMOX//boxmox/bin:/usr/local/emacs-26.1/bin:/usr/local/gcc-6.3.0/bin:/usr/local/openmpi/1.6.4/x86_64/ib/gnu/bin:/usr/local/Modules/3.2.10/bin:/usr/local/11.06.011-R8/STAR-View+11.06.011/bin:/usr/local/11.06.011-R8/STAR-CCM+11.06.011-R8/star/bin:/usr/local/univa/8.5.5/bin/lx-amd64:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/students/yicongh/bin
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+ended at Wed Mar 10 13:48:37 MST 2021
+started at Wed Mar 10 13:57:48 MST 2021
+/tmp/4505769.1.jathar.q:/home/students/yicongh/Programs/anaconda3/bin:/home/students/yicongh/Programs/anaconda3/condabin:/home/students/alia/intel/compilers_and_libraries_2019.2.187/linux/bin/intel64:/home/students/alia/intel/compilers_and_libraries_2019.2.187/linux/mpi/intel64/libfabric/bin:/home/students/alia/intel/compilers_and_libraries_2019.2.187/linux/mpi/intel64/bin:/home/students/alia/intel/debugger_2019/gdb/intel64/bin:/home/students/yicongh/Programs/BOXMOX//bin:/home/students/yicongh/Programs/BOXMOX//boxmox/bin:/usr/local/emacs-26.1/bin:/usr/local/gcc-6.3.0/bin:/usr/local/openmpi/1.6.4/x86_64/ib/gnu/bin:/usr/local/Modules/3.2.10/bin:/usr/local/11.06.011-R8/STAR-View+11.06.011/bin:/usr/local/11.06.011-R8/STAR-CCM+11.06.011-R8/star/bin:/usr/local/univa/8.5.5/bin/lx-amd64:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/students/yicongh/bin
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+ended at Wed Mar 10 14:00:46 MST 2021
+started at Wed Mar 10 15:24:18 MST 2021
+/tmp/4505776.1.jathar.q:/home/students/yicongh/Programs/anaconda3/bin:/home/students/yicongh/Programs/anaconda3/condabin:/home/students/alia/intel/compilers_and_libraries_2019.2.187/linux/bin/intel64:/home/students/alia/intel/compilers_and_libraries_2019.2.187/linux/mpi/intel64/libfabric/bin:/home/students/alia/intel/compilers_and_libraries_2019.2.187/linux/mpi/intel64/bin:/home/students/alia/intel/debugger_2019/gdb/intel64/bin:/home/students/yicongh/Programs/BOXMOX//bin:/home/students/yicongh/Programs/BOXMOX//boxmox/bin:/usr/local/emacs-26.1/bin:/usr/local/gcc-6.3.0/bin:/usr/local/openmpi/1.6.4/x86_64/ib/gnu/bin:/usr/local/Modules/3.2.10/bin:/usr/local/11.06.011-R8/STAR-View+11.06.011/bin:/usr/local/11.06.011-R8/STAR-CCM+11.06.011-R8/star/bin:/usr/local/univa/8.5.5/bin/lx-amd64:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/students/yicongh/bin
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+    
+ *****************************************************
+                      MOSAIC
+ Model for Simulating Aerosol Interactions & Chemistry
+     Copyright (c) 2018 Battelle Memorial Institute
+   
+     Contact: Rahul A. Zaveri (rahul.zaveri@pnl.gov)
+        Pacific Northwest National Laboratory
+ *****************************************************
+    
+ simulation begins...
+ Enter gas input filename. Example: case1.inp
+ Finished reading all inputs...
+time =        0.0
+time =      600.0
+time =     1200.0
+time =     1800.0
+time =     2400.0
+time =     3000.0
+time =     3600.0
+time =     4200.0
+time =     4800.0
+time =     5400.0
+time =     6000.0
+time =     6600.0
+time =     7200.0
+time =     7800.0
+time =     8400.0
+time =     9000.0
+time =     9600.0
+time =    10200.0
+time =    10800.0
+time =    11400.0
+time =    12000.0
+time =    12600.0
+time =    13200.0
+time =    13800.0
+time =    14400.0
+time =    15000.0
+time =    15600.0
+time =    16200.0
+time =    16800.0
+time =    17400.0
+time =    18000.0
+time =    18600.0
+time =    19200.0
+time =    19800.0
+time =    20400.0
+time =    21000.0
+
+SIMULATION COMPLETE.
+
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+MOSAIC COMPILING...
+MOSAIC COMPILED in /home/students/yicongh/Experiments/x.SIMPLESOM-MOSAIC/models/MOSAIC.v0.comp
+MOSAIC COPIED to CURRENT CASE.
+ended at Wed Mar 10 15:41:05 MST 2021

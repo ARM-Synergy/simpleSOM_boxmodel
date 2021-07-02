@@ -1,0 +1,126 @@
+INPUT_VERSION :
+2
+PARAMETERS
+06 21 10 00 00	begin date & time UTC (mo dd hh mm ss)
+00 06 00 00
+0.1   	timestep (min) for updating T, emission & output
+60.0		timestep (min) for aerosol optical calc
+0.0 0.0		lon & lat (deg): east +, west -, north +, south -
+0.0		altitude MSL (m)
+0.0
+298.0
+1.0
+1		ntype_aer
+3		nsize_aer (number of size bins)
+3               msize_framework = 1=modal, 2=unstructured, 3=sectional
+2               maersize_init_flag1 (should be 2 with sectionl to automatically produce the bin sizes)
+1               mhyst_method (see options in module_data_mosaic_aero.f90)
+0               mcoag_flag1 (0=off, 1=on)
+10              mmovesect_flag1 [10=moving center, 20=linear discrete (recommended); add 7000 to turn on extra diagnostics]
+0               mnewnuc_flag1 (0=off, 1/2/3=on - see module_newnuc.f90, **need to implement boundary layer nuc.)
+1               msectional_flag1 (currently not used)
+1		iprint = freq of output. Every iprint*dt_min mins.
+1		mmode: 1=time integration 2=parametric analysis
+1		mgas: 1=gas chem on,  0=gas chem off
+1		maer: 1=aer chem on,  0=aer chem off
+0		mcld: 1=cld chem on,  0=cld chem off
+0		maeroptic: 1=aer_optical on,  0=aer_optical off
+0		mshellcore: 0=no shellcore,  1=core is BC only,  2=core is BC and DUST
+0		msolar: 1=diurnally varying phot, 2=fixed phot
+0		mphoto: 1=Rick's param 2=Yang's param
+1		mGAS_AER_XFER: 1=do gas-aerosol partitioning 0=do not partition
+1		mDYNAMIC_SOLVER: 1=astem  2=lsodes
+0.5		alpha_ASTEM = solver parameter. range: 0.01 - 1.0
+0.01		rtol_eqb_ASTEM = relative eqb tolerance. range: 0.01 - 0.03
+0.01		ptol_mol_ASTEM = percent mol tolerance.  range: 0.01 - 1.0
+
+k	species		initial		Emission
+			 (ppb)		(ppb/hr)
+GAS
+1	H2SO4	0.000000	0.000000	0.000000
+2	HNO3	0.000000	0.000000	0.000000
+3	HCl	0.000000	0.000000	0.000000
+4	NH3	0.000000	0.000000	0.000000
+5	NO	0.000000	0.000000	0.000000
+6	NO2	0.000000	0.000000	0.000000
+7	NO3	0.000000	0.000000	0.000000
+8	N2O5	0.000000	0.000000	0.000000
+9	HONO	0.000000	0.000000	0.000000
+10	HNO4	0.000000	0.000000	0.000000
+11	O3	0.000000	0.000000	0.000000
+12	O1D	0.000000	0.000000	0.000000
+13	O3P	0.000000	0.000000	0.000000
+14	OH	0.000061	0.000000	0.000000
+15	HO2	0.000000	0.000000	0.000000
+16	H2O2	0.000000	0.000000	0.000000
+17	CO	0.000000	0.000000	0.000000
+18	SO2	0.000000	0.000000	0.000000
+19	CH4	0.000000	0.000000	0.000000
+20	C2H6	0.000000	0.000000	0.000000
+21	CH3O2	0.000000	0.000000	0.000000
+22	ETHP	0.000000	0.000000	0.000000
+23	HCHO	0.000000	0.000000	0.000000
+24	CH3OH	0.000000	0.000000	0.000000
+25	ANOL	0.000000	0.000000	0.000000
+26	CH3OOH	0.000000	0.000000	0.000000
+27	ETHOOH	0.000000	0.000000	0.000000
+28	ALD2	0.000000	0.000000	0.000000
+29	HCOOH	0.000000	0.000000	0.000000
+30	RCOOH	0.000000	0.000000	0.000000
+31	C2O3	0.000000	0.000000	0.000000
+32	PAN	0.000000	0.000000	0.000000
+33	PAR	0.000000	0.000000	0.000000
+34	AONE	0.000000	0.000000	0.000000
+35	MGLY	0.000000	0.000000	0.000000
+36	ETH	0.000000	0.000000	0.000000
+37	OLET	0.000000	0.000000	0.000000
+38	OLEI	0.000000	0.000000	0.000000
+39	TOL	0.000000	0.000000	0.000000
+40	XYL	0.000000	0.000000	0.000000
+41	CRES	0.000000	0.000000	0.000000
+42	TO2	0.000000	0.000000	0.000000
+43	CRO	0.000000	0.000000	0.000000
+44	OPEN	0.000000	0.000000	0.000000
+45	ONIT	0.000000	0.000000	0.000000
+46	ROOH	0.000000	0.000000	0.000000
+47	RO2	0.000000	0.000000	0.000000
+48	ANO2	0.000000	0.000000	0.000000
+49	NAP	0.000000	0.000000	0.000000
+50	XO2	0.000000	0.000000	0.000000
+51	XPAR	0.000000	0.000000	0.000000
+52	ISOP	0.000000	0.000000	0.000000
+53	ISOPRD	0.000000	0.000000	0.000000
+54	ISOPP	0.000000	0.000000	0.000000
+55	ISOPN	0.000000	0.000000	0.000000
+56	ISOPO2	0.000000	0.000000	0.000000
+57	CN3	0.000000	0.000000	0.000000
+58	CN2	0.000000	0.000000	0.000000
+59	CN1	0.000000	0.000000	0.000000
+60	C0	0.000000	0.000000	0.000000
+61	C1	0.000000	0.000000	0.000000
+62	C2	0.000000	0.000000	0.000000
+63	C3	0.000000	0.000000	0.000000
+64	C4	0.000000	0.000000	0.000000
+65	C5	0.000000	0.000000	0.000000
+66	C6	0.000000	0.000000	0.000000
+67	C7	0.000000	0.000000	0.000000
+68	C8	0.000000	0.000000	0.000000
+69	C9	100.000000	0.000000	0.000000
+70	DMS	0.000000	0.000000	0.000000
+71	MSA	0.000000	0.000000	0.000000
+72	DMSO	0.000000	0.000000	0.000000
+73	DMSO2	0.000000	0.000000	0.000000
+74	CH3SO2H	0.000000	0.000000	0.000000
+75	CH3SCH2OO	0.000000	0.000000	0.000000
+76	CH3SO2	0.000000	0.000000	0.000000
+77	CH3SO3	0.000000	0.000000	0.000000
+78	CH3SO2OO	0.000000	0.000000	0.000000
+79	CH3SO2CH2OO	0.000000	0.000000	0.000000
+80	SULFHOX	0.000000	0.000000	0.000000
+AEROSOL
+0.095 1.105 	overall dlo & dhi for sections (micron)
+bin	    num	        DpgN   sig jhyst          water	         so4	           no3	               cl	               nh4	                msa	          aro1	        aro2	                   aro3	                aro4          alk1	        ole1	                    api1	           api2	            api3	        api4	                   lim1	              lim2	               co3	             na	                 ca	             oin                  oc	        bc		
+#	    #/cc	 um	-  flag	                   kg/m3	   umol/m3	 umol/m3       umol/m3	 umol/m3	   umol/m3	 umol/m3       umol/m3	 umol/m3	   umol/m3	 umol/m3       umol/m3	 umol/m3	 umol/m3	 umol/m3       umol/m3	 umol/m3	   umol/m3	 umol/m3       umol/m3	  umol/m3	 ug/m3	         ug/m3	       ug/m3
+    1     0000.0    0.1000  1.0   0                    0.00   0.32821E-01  0.00000E+00   0.00000E+00   0.65642E-07   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000001E+00   0.0000E+00   0.00000E+00
+    2     0000.0    0.1000  1.0   0                    0.00   0.32821E-01  0.00000E+00   0.00000E+00   0.65642E-07   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000001E+00   0.0000E+00   0.00000E+00
+    3     0000.0    0.1000  1.0   0                    0.00   0.32821E-01  0.00000E+00   0.00000E+00   0.65642E-07   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000E+00   0.00000001E+00   0.0000E+00   0.00000E+00
